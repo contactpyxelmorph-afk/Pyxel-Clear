@@ -1,4 +1,4 @@
-# 💎 Pyxel Clear v1.0.0
+# 💎 Pyxel Clear
 ### *Freeze your palette footprint. Maximize your scenes.*
 
 **Pyxel Clear** is a free optimization tool built for **GB Studio** developers and GBC-style artists. It solves the "Palette Bloat" problem by forcing new scenes to conform to your existing project library, preventing the redundant "stacking" of near-identical palettes that eat up precious memory.
