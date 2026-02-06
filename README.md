@@ -34,3 +34,7 @@ When you run a process, Pyxel Clear exports:
 
 ## 💬 Community & Feedback
 This tool was built to help the GB Studio community save storage space and get that authentic "frozen" palette footprint. If you have suggestions for new output formats or features, feel free to open an issue or reach out!
+
+### 📄 Project Links
+
+* **Source Code:** [Pyxel_Tile.py (main branch)](https://github.com/contactpyxelmorph-afk/Pyxel-Clear/blob/main/Pyxel_Clear.py)
