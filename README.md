@@ -37,4 +37,4 @@ This tool was built to help the GB Studio community save storage space and get t
 
 ### 📄 Project Links
 
-* **Source Code:** [Pyxel_Tile.py (main branch)](https://github.com/contactpyxelmorph-afk/Pyxel-Clear/blob/main/Pyxel_Clear.py)
+* **Source Code:** [Pyxel_Clear.py (main branch)](https://github.com/contactpyxelmorph-afk/Pyxel-Clear/blob/main/Pyxel_Clear.py)
