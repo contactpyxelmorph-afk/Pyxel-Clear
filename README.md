@@ -1,6 +1,8 @@
 # 💎 Pyxel Clear
 ### *Freeze your palette footprint. Maximize your scenes.*
 
+at the moment I advise inserting palette files with stricly the palette colors and nothing else; tomorrow I will load a debugged version that allows all palette file imports, allowing for not misreading palette ids as colors in the palette.
+
 **Pyxel Clear** is a free optimization tool built for **GB Studio** developers and GBC-style artists. It solves the "Palette Bloat" problem by forcing new scenes to conform to your existing project library, preventing the redundant "stacking" of near-identical palettes that eat up precious memory.
 
 ## 🚀 The Core Workflow
